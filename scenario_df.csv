@@ -1,0 +1,6 @@
+Scenario,Source,P(Success),Risk
+Base,Morocco,0.565,Medium
+Poland Path,Poland,0.7575,High
+Egypt Path,Egypt,0.1675,Low
+Ghana Path,Ghana,0.0575,Low
+Nigeria Path,Nigeria,0.025,Low
