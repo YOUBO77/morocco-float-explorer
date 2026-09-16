@@ -3,7 +3,10 @@
 **Interactive risk assessment for Morocco's 2026 currency float using historical peer trajectories.**
 ## 🎥 Dashboard Demo
 
-<video src="dashboard_demo.mp4" controls width="100%" autoplay loop muted></video>
+
+https://github.com/user-attachments/assets/606daf5a-7e93-46e2-afb7-0c025c5e1804
+
+
 
 ---
 ## Executive Summary
