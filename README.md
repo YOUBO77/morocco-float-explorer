@@ -1,7 +1,7 @@
 # Morocco Dirham Float: Scenario Explorer
 
 **Interactive risk assessment for Morocco's 2026 currency float using historical peer trajectories.**
-
+<video src="dashboard_demo (1).mp4" controls width="100%"></video>
 ## Executive Summary
 
 Morocco plans to float the dirham in 2026. Using pre-float macroeconomic trajectories from six historical currency floats, this project clusters peers by trajectory direction and explores scenario-based outcomes.
